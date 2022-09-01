@@ -120,6 +120,7 @@ body {
     height: 10px;
     width: 10px;
     box-shadow: 
+    40px 200px 0 0 yellow,
     50px 200px 0 0 yellow,
     60px 200px 0 0 yellow,
     70px 200px 0 0 yellow,
@@ -131,5 +132,6 @@ body {
     130px 200px 0 0 yellow,
     140px 200px 0 0 yellow,
     150px 200px 0 0 yellow,
-    160px 200px 0 0 yellow;
+    160px 200px 0 0 yellow,
+    170px 200px 0 0 yellow;
 }
